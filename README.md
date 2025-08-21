@@ -1,2 +1,2 @@
 # NTU-IE4727-Exercise
-NTU IE4727 Exercises
+NTU IE4727 In-Class Exercises
